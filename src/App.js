@@ -9,7 +9,7 @@ function App() {
         <Weather />
       </div>
       <div className="footer-info">
-        <a href="https://github.com/sitiaminahak/6m-software-2.9-react-axios">
+        <a href="https://github.com/sitiaminahak/project_module2_NTUSU/tree/main">
           Download Source Code
         </a>{" "}
         | Developed by{" "}
